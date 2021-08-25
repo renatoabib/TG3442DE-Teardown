@@ -34,7 +34,7 @@
 
 ### RAM
 
-4x `Samsung K4B2G1646F-BYK0` ???Capacity used (4x512 MByte?)??? DDR3-RAM ([Samsung product page](https://www.samsung.com/semiconductor/dram/ddr3/K4B2G1646F-BYK0/))  [FIXME: exact capacity]
+4x `Samsung K4B2G1646F-BYK0` ???Capacity used (4x128 MByte?)??? DDR3-RAM ([Samsung product page](https://www.samsung.com/semiconductor/dram/ddr3/K4B2G1646F-BYK0/))  [FIXME: exact capacity]
 
 <details>
   <summary>Photo</summary>
